@@ -1,0 +1,15 @@
+<Configuration>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>c:\temp</HostFolder>
+      <Readonly>true</Readonly>
+    </MappedFolder>
+  </MappedFolders>
+  <LogonCommand>
+    <Command>cmd.exe</Command>
+  </LogonCommand>
+  <VGpu>Enabled</VGpu>
+  <Networking>Enabled</Networking>
+  <AudioInput>Enabled</AudioInput>
+  <VideoInput>Enabled</VideoInput>
+</Configuration>

@@ -1,0 +1,16 @@
+{
+  "files.autoSave": "afterDelay",
+  "explorer.sortOrder": "type",
+  "editor.fontSize": 13,
+  "editor.tabSize": 2,
+  "workbench.preferredDarkColorTheme": "Abyss",
+  "workbench.preferredHighContrastColorTheme": "Abyss",
+  "workbench.colorTheme": "Abyss",
+  "editor.wordWrap": "on",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.fontLigatures": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "files.trimFinalNewlines": true,
+  "editor.acceptSuggestionOnEnter": "off"
+}

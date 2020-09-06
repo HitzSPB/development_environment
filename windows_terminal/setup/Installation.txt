@@ -1,0 +1,7 @@
+install-module posh-git -scope currentuser 
+install-module oh-my-posh -scope CurrentUser
+
+Inside echo $profile (put the file Microsoft.PowerShell_profile)
+
+
+and copy settings.json into the terminal settings (but replace guids to linux)

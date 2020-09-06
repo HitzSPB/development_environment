@@ -1,0 +1,25 @@
+Install
+
+Chrome
+discord
+teams
+Winget
+Windows terminal
+Total commander
+Docker
+Visual studio Enterprise
+Visual studio code
+Linqpad 5
+Linqpad 6
+nodejs
+Postman
+Fiddler
+Wireshark
+windirstat
+
+(Mangler)
+Visio
+Snagit
+Sysinternals
+Adblock
+pdfcreator
